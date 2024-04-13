@@ -1,5 +1,7 @@
 body {
     width: 20rem;
+    background-color: #F3FFB6;
+    /* background-color: #202020; */
 }
 
 ul {
@@ -9,8 +11,13 @@ ul {
 }
 
 li {
-    padding: 10px;
+    padding: 6px 14px;
     border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    background-color: #202020;
+    color: #fff;
+    border-radius: 5px;
+    margin: 10px;
 }
 
 /* li:nth-child(odd) {
@@ -21,10 +28,56 @@ li:nth-child(even) {
     background: #ffffff;
 } */
 
-li:hover{
-    background-color: gray;
+.heading {
+    margin: 8px;
+    padding: 4px;
+    border-bottom: 2px solid purple;
+    border-radius: 3px;
 }
-h3,
-p {
-    margin: 0;
+
+.title {
+    margin-bottom: 10px;
+    margin-top: 7px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #F3FFB6;
+    /* background-color: red; */
+}
+
+.pathname {
+    padding-top: 7px;
+}
+
+.author {
+    font-size: 13px;
+    color: #202020
+}
+
+li:hover {
+    transition: all 150ms ease-in;
+    background-color: #414040;
+}
+
+
+input {
+    padding: 8px;
+    border-radius: 5px;
+    margin: 2px;
+    font-weight: 600;
+}
+
+button {
+    padding: 7px 10px;
+    border-radius: 5px;
+    background-color: #414040;
+    color: #fff;
+    /* color:rgb(243, 223, 223); */
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #000000;
 }

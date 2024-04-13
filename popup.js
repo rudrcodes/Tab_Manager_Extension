@@ -10,6 +10,7 @@ getTabs.addEventListener("click", async () => {
       `https://www.${tabName.value}/*`,
       `https://${tabName.value}.com/*`,
       `https://${tabName.value}.org/*`,
+      `https://${tabName.value}.co/*`,
     ],
   });
   const tabsUrl = tabs.map((tab) => tab.url);
