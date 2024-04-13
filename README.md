@@ -11,7 +11,7 @@ I also used to face the same issue, hence I made this.
 
 ## Do check it out, you're feedback will make me improve the extension. 
 
-Thanks,
-Rudransh Aggarwal
-Portfolio: https://rudranshaggarwal.netlify.app/
-LinkedIn: https://www.linkedin.com/in/rudransh-aggarwal-33653a1b6/
+Thanks, <br/>
+Rudransh Aggarwal <br/>
+Portfolio: https://rudranshaggarwal.netlify.app/ <br/>
+LinkedIn: https://www.linkedin.com/in/rudransh-aggarwal-33653a1b6/ <br/>
